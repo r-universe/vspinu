@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "timechange"]
 	path = timechange
 	url = https://github.com/vspinu/timechange
-	shallow = true
-	registered = true
 [submodule "unnest"]
 	path = unnest
 	url = https://github.com/vspinu/unnest
-	shallow = true
-	registered = true
